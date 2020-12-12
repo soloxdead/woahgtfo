@@ -1,1 +1,2 @@
-# woahgtfo
+# WoahGTFO
+This is just a simple python3 script that will check the server for any [SUID's](https://pentestlab.blog/2017/09/25/suid-executables/) and run the list against [GTFOBins](https://gtfobins.github.io/). For now the code will just display links to [GTFOBins](https://gtfobins.github.io/) but eventually would like to display the data within.
